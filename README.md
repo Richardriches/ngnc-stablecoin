@@ -61,3 +61,7 @@ ngnc-stablecoin/
 │   └── NGNC.sol          # ERC-20 stablecoin contract
 ├── README.md             # Project overview and vision
 └── ...                   # Scripts, tests, and deployment tools (coming soon)
+
+## ✅ License  
+MIT License – Free to use, modify, or build on with attribution.
+
