@@ -1,1 +1,0 @@
-notepad NGNC.sol
