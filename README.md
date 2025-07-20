@@ -61,3 +61,18 @@ ngnc-stablecoin/
 │   └── NGNC.sol          # ERC-20 stablecoin contract
 ├── README.md             # Project overview and vision
 └── ...                   # Scripts, tests, and deployment tools (coming soon)
+
+---
+
+5. Scroll down, write a commit message like:
+
+
+6. Click **“Commit new file”**
+
+🎉 **Your README will now appear as the homepage of your GitHub project!**
+
+---
+
+If you prefer I upload it from your computer using Git CLI, I can walk you through that too.
+
+Would you like help deploying `NGNC.sol` next on testnet (e.g. Polygon Mumbai)?
